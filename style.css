@@ -24,6 +24,7 @@ nav {
   transform: rotate(45deg);
   margin-left: 200px;
   margin-top: 162px;
+  display: inline-block;
 }
 
 .second_square {
@@ -33,4 +34,24 @@ nav {
   border: 6px solid;
   transform: rotate(45deg);
   margin-left: 32px;
+}
+
+.first_line {
+  width: 124px;
+  height: 12px;
+  background-color: #0003f5;
+  border: 4px solid black;
+  margin-bottom: 35px;
+}
+
+.second_line {
+  width: 124px;
+  height: 12px;
+  background-color: #0003f5;
+  border: 4px solid black;
+}
+
+.shape_line {
+  display: inline-block;
+  margin-left: 180px;
 }
