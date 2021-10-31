@@ -15,3 +15,22 @@ nav {
   height: 134px;
   border: 8px solid black;
 }
+
+.first_square {
+  width: 176px;
+  height: 176px;
+  background-color: #fe0000;
+  border: 6px solid;
+  transform: rotate(45deg);
+  margin-left: 200px;
+  margin-top: 162px;
+}
+
+.second_square {
+  width: 176px;
+  height: 176px;
+  background-color: #fe0000;
+  border: 6px solid;
+  transform: rotate(45deg);
+  margin-left: 32px;
+}
