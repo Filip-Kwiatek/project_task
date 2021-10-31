@@ -69,3 +69,20 @@ nav {
   display: inline-block;
   margin-left: 35px;
 }
+
+.rectangle {
+  width: 204px;
+  height: 460px;
+  background-color: white;
+  border: 4px solid black;
+  font-size: 38px;
+  text-align: center;
+  letter-spacing: 5px;
+  font-weight: 700;
+}
+
+.shape_rectangle {
+  float: right;
+  margin-top: 180px;
+  margin-right: 25px;
+}
